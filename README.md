@@ -2,4 +2,7 @@
 
 <!-- this README.md is appear on github profile -->
 
-### Here what I'm Working On. :pen::pencil::computer:
+### Here what I'm interested in. :pen::pencil::computer:
+
+- Golang
+- Typescript

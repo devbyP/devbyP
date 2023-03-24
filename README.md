@@ -3,22 +3,16 @@
 Name: Thanapon Teerakaisri; Nickname: Pui;
 :thailand::thailand::thailand:
 
-Favorite text editor: Neovim
-
-Interested in learning new programming languages and new technologies.
-
 Programming languages I code on:
 
-Golang | NodeJs | Typescript | Javascript | maybe programming languages HTML&CSS |
+Golang | NodeJs | Typescript | Javascript 
 
 Tools I use:
 
-Neovim | Git | VueJs | ReactJs | PostgreSQL | MongoDB | MacOS | Manjaro Linux(use Arch btw:question::question:) | computer:computer: | keyboard:keyboard: | track ball mouse:trackball: | coffee:coffee: | internet:globe_with_meridians: |
+Neovim | Git | VueJs | ReactJs | PostgreSQL | MongoDB | MacOS 
 
 Languages:
 
 - Thai (Native)
 - English
 - Japanese (not proficient, still learning.)
-
-Blog Post: Null :shrug:

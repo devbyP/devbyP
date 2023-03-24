@@ -21,12 +21,4 @@ Languages:
 - English
 - Japanese (not proficient, still learning.)
 
-Currently Learning:
-
-- C programming language
-
-Interested in but not looking much into(learning wishlist):
-
-- :crab:Rust
-
 Blog Post: Null :shrug:
